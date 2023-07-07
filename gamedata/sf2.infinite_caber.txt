@@ -1,0 +1,25 @@
+"Games"
+{
+	"tf"
+	{
+		"Offsets"
+		{
+			"CTFWeaponBaseMelee::Smack"
+			{
+				"library"	"server"
+				"linux"		"477"
+				"windows"	"470"
+			}
+		}
+		"Functions"
+		{
+			"CTFWeaponBaseMelee::Smack"
+			{
+				"offset"	"CTFWeaponBaseMelee::Smack"
+				"hooktype"	"entity"
+				"return"	"void"
+				"this"		"entity"
+			}
+		}
+	}
+}
