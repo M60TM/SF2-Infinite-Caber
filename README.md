@@ -6,7 +6,7 @@ You can get only one convar.
 sf2_caber_cooltime - cooltime to determine to recharge caber. maximum = 30.0. minimum = 5.0.
 ```
 # Note
-Don't forget to edit addons/sourcemod/configs/sf2/restrictedweapons.cfg. It is disabled by default.
+Don't forget to edit `addons/sourcemod/configs/sf2/restrictedweapons.cfg`. It is disabled by default.
 
 ----
 
